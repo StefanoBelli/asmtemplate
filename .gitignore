@@ -1,0 +1,8 @@
+*.o
+*.obj
+*.so
+a.out
+project_name_executable
+*.exe
+*.a
+*.dll
